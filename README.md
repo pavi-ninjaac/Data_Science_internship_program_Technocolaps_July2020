@@ -1,6 +1,7 @@
 # Data Science internship program Technocolaps July2020-Aug 2020
 This is my journey fo data science internship at technocolaps. Here i am going to write the day by day activities of this internship and write about my assignments and projects and learing path.
 # Day 1:
+https://shahyaseen71.gitbook.io/data-science-internship/learn-from-the-basic-to-advanced
 ##### learning about what is data science and some importance of basic level:
 # 2. What is Data Science?
 Before we start the Data Science Tutorial, we should find out what data science really is.
