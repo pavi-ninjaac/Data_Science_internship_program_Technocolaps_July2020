@@ -86,3 +86,7 @@ Adding italics and bold:
 # Day 2(21-07-2020):
 Completed my first assignment course on kaggle <b>"Python for data science"</b>.
 [check here the assignments](https://github.com/pavi-ninjaac/Data_Science_internship_program_Technocolaps_July2020/tree/master/Assignment/python_for_data_science_kaggle_handsOn)
+
+# Day3 (22-07-2020):
+completed the sencond assignment course on kaggle <b>"Python Data manupulation Pandas"</b>
+[check here the assignments]
