@@ -90,3 +90,30 @@ Completed my first assignment course on kaggle <b>"Python for data science"</b>.
 # Day3 (22-07-2020):
 completed the sencond assignment course on kaggle <b>"Python Data manupulation Pandas"</b>
 [check here the assignments](https://github.com/pavi-ninjaac/Data_Science_internship_program_Technocolaps_July2020/tree/master/Assignment/Python_Data_manupulation_Pandas_kaggleHandson)
+
+# Day3 (23-07-2020):
+completed my 3rd assignment course on kaggle <b> Data visualization with seaborn</b>
+[check here the assignments](https://github.com/pavi-ninjaac/Data_Science_internship_program_Technocolaps_July2020/tree/master/Assignment/Data_Visualization_seaborn_kaggle_handson)
+
+
+# leasson summary:
+### Trends - A trend is defined as a pattern of change.
+- sns.lineplot - Line charts are best to show trends over a period of time, and multiple lines can be used to show trends in more than one group.
+- Relationship - There are many different chart types that you can use to understand relationships between variables in your data.
+- sns.barplot - Bar charts are useful for comparing quantities corresponding to different groups.
+- sns.heatmap - Heatmaps can be used to find color-coded patterns in tables of numbers.
+- sns.scatterplot - Scatter plots show the relationship between two continuous variables; if color-coded, we can also show the relationship with a third categorical variable.
+- sns.regplot - Including a regression line in the scatter plot makes it easier to see any linear relationship between two variables.
+- sns.lmplot - This command is useful for drawing multiple regression lines, if the scatter plot contains multiple, color-coded groups.
+- sns.swarmplot - Categorical scatter plots show the relationship between a continuous variable and a categorical variable.
+### Distribution - We visualize distributions to show the possible values that we can expect to see in a variable, along with how likely they are.
+- sns.distplot - Histograms show the distribution of a single numerical variable.
+- sns.kdeplot - KDE plots (or 2D KDE plots) show an estimated, smooth distribution of a single numerical variable (or two numerical variables).
+- sns.jointplot - This command is useful for simultaneously displaying a 2D KDE plot with the corresponding KDE plots for each individual variable.
+### Changing styles with seaborn
+All of the commands have provided a nice, default style to each of the plots. However, you may find it useful to customize how your plots look, and thankfully, this can be accomplished by just adding one more line of code!
+
+As always, we need to begin by setting up the coding environment. (This code is hidden, but you can un-hide it by clicking on the "Code" button immediately below this text, on the right.)
+
+We'll work with the same code that we used to create a line chart in a previous tutorial. The code below loads the dataset and creates the chart.
+
