@@ -117,3 +117,6 @@ As always, we need to begin by setting up the coding environment. (This code is 
 
 We'll work with the same code that we used to create a line chart in a previous tutorial. The code below loads the dataset and creates the chart.
 
+# Day4 (24-07-2020):
+completed my 4th assignment course on kaggle <b> INtro to SQL and bigqueries</b>
+[check here the assignments](https://github.com/pavi-ninjaac/Data_Science_internship_program_Technocolaps_July2020/tree/master/Assignment/IntroTo_sql_bigqueries)
