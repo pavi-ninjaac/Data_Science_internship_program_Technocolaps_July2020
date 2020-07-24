@@ -91,7 +91,7 @@ Completed my first assignment course on kaggle <b>"Python for data science"</b>.
 completed the sencond assignment course on kaggle <b>"Python Data manupulation Pandas"</b>
 [check here the assignments](https://github.com/pavi-ninjaac/Data_Science_internship_program_Technocolaps_July2020/tree/master/Assignment/Python_Data_manupulation_Pandas_kaggleHandson)
 
-# Day3 (23-07-2020):
+# Day 4 (23-07-2020):
 completed my 3rd assignment course on kaggle <b> Data visualization with seaborn</b>
 [check here the assignments](https://github.com/pavi-ninjaac/Data_Science_internship_program_Technocolaps_July2020/tree/master/Assignment/Data_Visualization_seaborn_kaggle_handson)
 
@@ -117,6 +117,14 @@ As always, we need to begin by setting up the coding environment. (This code is 
 
 We'll work with the same code that we used to create a line chart in a previous tutorial. The code below loads the dataset and creates the chart.
 
-# Day4 (24-07-2020):
+# Day 5 (24-07-2020):
 completed my 4th assignment course on kaggle <b> INtro to SQL and bigqueries</b>
 [check here the assignments](https://github.com/pavi-ninjaac/Data_Science_internship_program_Technocolaps_July2020/tree/master/Assignment/IntroTo_sql_bigqueries)
+
+# Day 6 (25-07-2020):
+Completed my first Mini project using the handwashing dataset.
+[check here the mini project](https://github.com/pavi-ninjaac/Data_Science_internship_program_Technocolaps_July2020/tree/master/MiniProject_1)
+
+
+
+
