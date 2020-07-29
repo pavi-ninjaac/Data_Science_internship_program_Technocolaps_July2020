@@ -125,6 +125,11 @@ completed my 4th assignment course on kaggle <b> INtro to SQL and bigqueries</b>
 Completed my first Mini project using the handwashing dataset.
 [check here the mini project](https://github.com/pavi-ninjaac/Data_Science_internship_program_Technocolaps_July2020/tree/master/MiniProject_1)
 
+# Day 7-9(26-07-2020 -- 28-07-2020)
+Revieced and Elvaluated my Assignments and mini project 1
+
+# Day 10(29-07-2020)
+MiniProject 2
 
 
 
