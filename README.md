@@ -129,7 +129,13 @@ Completed my first Mini project using the handwashing dataset.
 Revieced and Elvaluated my Assignments and mini project 1
 
 # Day 10(29-07-2020)
-MiniProject 2
+MiniProject 2- started and completed task1 and task 2
+[Check here the work]()
+
+# Day 11(30-07-2020)
+MiniProject 2- completed task3, task4
+[Check here the work]()
+Learned deeply abut the ROC and PR curves (precision-recall)
 
 
 
