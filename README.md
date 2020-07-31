@@ -140,6 +140,6 @@ MiniProject 2- completed task3, task4
 Learned deeply abut the ROC and PR curves (precision-recall)
 
 # Day 12(31-07-2020)
-MiniProject 2- completed task5, task6
-[Check here the work]()<br/>
+MiniProject 2- completed task5
+[Check here the work for task 5](https://github.com/pavi-ninjaac/Data_Science_internship_program_Technocolaps_July2020/tree/master/MiniProject2/task5/Cross-Validation_and_Feature_Engineering)<br/>
 Learned about the 
