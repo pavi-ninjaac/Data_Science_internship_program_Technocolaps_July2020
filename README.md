@@ -137,5 +137,7 @@ MiniProject 2- completed task3, task4
 [Check here the work]()
 Learned deeply abut the ROC and PR curves (precision-recall)
 
-
-
+# Day 12(31-07-2020)
+MiniProject 2- completed task5, task6
+[Check here the work]()
+Learned about the 
