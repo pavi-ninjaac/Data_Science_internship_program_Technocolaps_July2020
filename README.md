@@ -126,15 +126,17 @@ Completed my first Mini project using the handwashing dataset.
 [check here the mini project](https://github.com/pavi-ninjaac/Data_Science_internship_program_Technocolaps_July2020/tree/master/MiniProject_1)
 
 # Day 7-9(26-07-2020 -- 28-07-2020)
-Revieced and Elvaluated my Assignments and mini project 1
+Reviweced and Elvaluated my Assignments and mini project 1
 
 # Day 10(29-07-2020)
 MiniProject 2- started and completed task1 and task 2
-[Check here the work]()
+[Check here the work for Task-1](https://github.com/pavi-ninjaac/Data_Science_internship_program_Technocolaps_July2020/tree/master/MiniProject2/task1/Data_Exploration_and_Cleaning)
+[Check here the work for Task-2](https://github.com/pavi-ninjaac/Data_Science_internship_program_Technocolaps_July2020/tree/master/MiniProject2/task2/Exploring_Remaining_Financial_Features_in_the_Dataset)
 
 # Day 11(30-07-2020)
 MiniProject 2- completed task3, task4
-[Check here the work]()
+[Check here the work for task-3]()
+[Check here the work for task-4]()
 Learned deeply abut the ROC and PR curves (precision-recall)
 
 # Day 12(31-07-2020)
