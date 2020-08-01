@@ -146,4 +146,4 @@ Learned about the
 
 # Day 13(01-08-2020)
 MiniProject 2- completed task6
-[Check here the work for task 6]()
+[Check here the work for task 6](https://github.com/pavi-ninjaac/Data_Science_internship_program_Technocolaps_July2020/tree/master/MiniProject2/task6/Cross-Validation_Grid_Search_with_Random_Forest)
