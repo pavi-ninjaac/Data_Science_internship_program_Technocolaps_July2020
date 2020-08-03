@@ -135,8 +135,8 @@ MiniProject 2- started and completed task1 and task 2
 
 # Day 11(30-07-2020)
 MiniProject 2- completed task3, task4
-[Check here the work for task-3]()<br/>
-[Check here the work for task-4]()<br/>
+[Check here the work for task-3](https://github.com/pavi-ninjaac/Data_Science_internship_program_Technocolaps_July2020/tree/master/MiniProject2/task3/Performing_Logistic_Regression)<br/>
+[Check here the work for task-4](https://github.com/pavi-ninjaac/Data_Science_internship_program_Technocolaps_July2020/tree/master/MiniProject2/task4/Fitting_a_Logistic_Regression_Model)<br/>
 Learned deeply abut the ROC and PR curves (precision-recall)
 
 # Day 12(31-07-2020)
