@@ -151,3 +151,6 @@ MiniProject 2- completed task6
 # Day 14 (02-082020)
 MiniProject 2- learning things for  task7
 [Check here the work for task 7]()
+
+# Day 15 (03-08-2020)
+did task7
