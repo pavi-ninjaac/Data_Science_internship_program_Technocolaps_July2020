@@ -160,3 +160,5 @@ did task7
 # Day 17-24(05-08-2020 - 12-08-2020)
 preparing my self for the final project 
 the link for gitbok is https://technocollabs.gitbook.io/final-project-in-data-science/
+# Day 25 (13-08-2020)
+doing my final project
