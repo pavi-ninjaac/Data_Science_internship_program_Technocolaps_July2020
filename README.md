@@ -162,3 +162,6 @@ preparing my self for the final project
 the link for gitbok is https://technocollabs.gitbook.io/final-project-in-data-science/
 # Day 25 (13-08-2020)
 doing my final project
+
+# Day 26 (14-08-2020)
+did my final project
