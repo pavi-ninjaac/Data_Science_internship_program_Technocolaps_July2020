@@ -165,3 +165,6 @@ doing my final project
 
 # Day 26 (14-08-2020)
 did my final project
+
+# Day 27 (15-08-2020)
+PCA and KMeans clustering for feature extraction
