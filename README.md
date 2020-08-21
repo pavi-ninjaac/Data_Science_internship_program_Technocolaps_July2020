@@ -171,3 +171,6 @@ PCA and KMeans clustering for feature extraction
 
 # Day 28 (17-08-2020)
 attended my final internship meeting and made my project report.
+
+# Day 30 (20-08-2020)
+complited my internship
