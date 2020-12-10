@@ -11,7 +11,7 @@ In 90’s
 - 1960- Peter Naur uses the term as a substitute for computer science.
 - 1974- Peter Naur publishes Concise Survey of Computer Methods, uses a term in a survey of contemporary data processing methods.
 - 1996- Biennial conference in Kobe; members of the IFCS (International Federation of Classification Societies include the term in the conference title.
-- 1997- November- Professor C.F. Jeff Wu delivers inaugural lecture on the topic “Statistics=Data Science?”.
+- 1997- November- Professor C.F. Jeff Wu delivers inaugural lecture on the topic “Stati stics=Data Science?”.
 b. In 2000’s
 - 2001- William S. Cleveland introduces data science as an independent discipline in article Data Science: An Action Plan for Expanding the Technical Areas of the Field of Statistics.
 - 2002- April- The ICSU (International Council for Science): Committee on Data for Science and Technology (CODATA) starts Data Science Journal- this publication is to focus on issues pertaining to data systems- description, publication, application, and also legal issues.
